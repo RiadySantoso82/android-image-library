@@ -1,0 +1,3 @@
+include ':rsimagelibrary'
+include ':app'
+rootProject.name = "RSImageLibrary"
